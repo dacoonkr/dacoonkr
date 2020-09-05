@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoonkr&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoonkr&theme=radical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dacoonkr&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dacoonkr&theme=radical)

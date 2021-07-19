@@ -5,3 +5,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dacoonkr&show_icons=true&locale=en" alt="dacoonkr" /></p>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgud0621)](https://solved.ac/wjdgud0621)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dacoonkr)](https://git.io/streak-stats)

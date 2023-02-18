@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 다쿤</h1>
-<h1 align="center">중학생</h1>
+<h1 align="center">고등학생</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dacoonkr&show_icons=true&locale=en&layout=compact" alt="dacoonkr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dacoonkr&show_icons=true&locale=en" alt="dacoonkr" /></p>
